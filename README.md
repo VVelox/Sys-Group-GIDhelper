@@ -1,8 +1,6 @@
 # Sys-Group-GIDhelper
 
-# Sys-User-UIDhelper
-
-Helps for locating free UIDs using getpwuid.
+Helps for locating free GIDs using getgrgid.
 
 ```perl
 use Sys::Group::GIDhelper;
